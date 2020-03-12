@@ -53,7 +53,7 @@
                 </div>
                 <div class="row">
                     <div class="col-6 font-weight-bold">
-                        {s namespace="backend/paynl/refund" name="column/transaction_id"}Pay.nl Transaction id{/s}
+                        {s namespace="backend/paynl/refund" name="column/transaction_id"}PAY. Transaction id{/s}
                     </div>
                     <div class="col-6 ">
                         {$paynlOrderId}

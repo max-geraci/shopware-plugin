@@ -2,7 +2,7 @@ Ext.define('Shopware.apps.PaynlTransactions.view.list.Window', {
     extend: 'Shopware.window.Listing',
     alias: 'widget.transaction-list-window',
     height: 450,
-    title : '{s name=window_title}Pay.nl Transactions{/s}',
+    title : '{s name=window_title}PAY. Transactions{/s}',
 
     configure: function() {
         return {

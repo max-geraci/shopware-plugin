@@ -4,7 +4,7 @@
     "shopware",
     "plugin"
   ],
-  "description": "Pay.nl Shopware Plugin",
+  "description": "PAY. Shopware Plugin",
   "type": "shopware-plugin",
   "extra": {
     "installer-name": "PaynlPayment"

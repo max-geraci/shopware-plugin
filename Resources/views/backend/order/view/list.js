@@ -38,7 +38,7 @@ Ext.override(Shopware.apps.Order.view.list.List, {
 
         return {
             action: 'notice',
-            tooltip: '{s name="tooltip/paynl"}Open in Pay.nl{/s}',
+            tooltip: '{s name="tooltip/paynl"}Open in PAY.{/s}',
             iconCls: 'sprite--paynl-logo',
             handler: function (view, rowIndex, colIndex, item, opts, record) {
 

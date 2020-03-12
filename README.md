@@ -1,11 +1,11 @@
-# Pay.nl Shopware plugin
+# PAY. Shopware plugin
 ---
 - [Summary](#summary)
 - [Quickstart](#quickstart)
 - [Setup](#setup)
 ---
 ### Summary
-With this plug-in by Pay.nl you can easily add all desired payment methods to your Shopware webshop. Please refer to https://www.pay.nl (Dutch) for an overview of all features and services. 
+With this plug-in by PAY. you can easily add all desired payment methods to your Shopware webshop. Please refer to https://www.pay.nl (Dutch) for an overview of all features and services. 
 ##### Available payment methods:
 Bank Payments  | Creditcards | Gift cards & Vouchers | Pay by invoice | Others | 
 :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -24,11 +24,11 @@ Download the latest .tgz release and upload into *Configuration* > *Plugin Manag
 ##### Setup
 1. Log into the Shopware admin
 2. Go to *Configuration* > *Plugin Manager* > *Installed*
-3. Scroll down or search for Pay.nl
+3. Scroll down or search for PAY.
 4. Click Open
-5. Enter the Token code, API token and serviceID (these can be found in the Pay.nl Admin Panel --> https://admin.pay.nl/programs/programs
+5. Enter the Token code, API token and serviceID (these can be found in the PAY. Admin Panel --> https://admin.pay.nl/programs/programs
 6. Save the settings
 7. Go to *Configuration* > *Payment methods*
 8. Click on a payment method and click Active to make the payment method active or not.
 9. Save the settings
-Go to the *Manage* > *Services* tab in the Pay.nl Admin Panel to enable extra payment methods
+Go to the *Manage* > *Services* tab in the PAY. Admin Panel to enable extra payment methods

@@ -161,7 +161,7 @@ class PaynlPayment extends Plugin
             $db->executeQuery('INSERT INTO `s_order_number` (`number`, `name`, `desc`) VALUES (:number, :name, :description)', [
                 'number' => 1000000,
                 'name' => $name,
-                'description' => 'Payment id for pay.nl payments'
+                'description' => 'Payment id for PAY. payments'
             ]);
         }
     }

@@ -45,7 +45,7 @@ class TemplateRegistration implements SubscriberInterface
 
     /**
      * Handles the Enlight_Controller_Action_PostDispatchSecure_Backend_Index event.
-     * Extends the backend icon set with the pay.nl icon
+     * Extends the backend icon set with the PAY. icon
      *
      * @param ActionEventArgs $args
      */

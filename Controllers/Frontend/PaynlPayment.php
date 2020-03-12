@@ -9,7 +9,7 @@ class Shopware_Controllers_Frontend_PaynlPayment extends Shopware_Controllers_Fr
     public function indexAction()
     {
         if (substr($this->getPaymentShortName(), 0, 6) !== 'paynl_') {
-            throw new Exception('Payment is not a Pay.nl Payment method');
+            throw new Exception('Payment is not a PAY. Payment method');
         }
 
         $this->forward('redirect');

@@ -65,7 +65,7 @@ Ext.define('Shopware.apps.PaynlTransactions.view.list.Transaction', {
             items = me.callParent(arguments);
         items.push({
             action: 'notice',
-            tooltip: '{s name="tooltip/paynl"}Open in Pay.nl{/s}',
+            tooltip: '{s name="tooltip/paynl"}Open in PAY.{/s}',
             iconCls: 'sprite--paynl-logo',
             handler: function (view, rowIndex, colIndex, item, opts, record) {
                 var url = "https://admin.pay.nl/transactions/info/" + record.get('transactionId');
