@@ -5,23 +5,32 @@
 - [Setup](#setup)
 ---
 ### Summary
+
 With this plug-in by PAY. you can easily add all desired payment methods to your Shopware webshop. Please refer to https://www.pay.nl (Dutch) for an overview of all features and services. 
+
 ##### Available payment methods:
+
 Bank Payments  | Creditcards | Gift cards & Vouchers | Pay by invoice | Others | 
 :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 iDEAL + QR |Visa | VVV Cadeaukaart | AfterPay | PayPal |
-Bancontact + QR |  Mastercard | Webshop Giftcard | Billink | WeChatPay | 
-Giropay |American Express | FashionCheque |Focum AchterafBetalen.nl | AmazonPay |
+Bancontact + QR |  Mastercard | Webshop Giftcard | Achteraf betalen via Billink | WeChatPay | 
+Giropay |American Express | FashionCheque | Focum AchterafBetalen.nl | AmazonPay |
 MyBank | Carte Bancaire | Podium Cadeaukaart | Capayable Achteraf Betalen | Cashly | 
-SOFORT | PostePay | Gezondheidsbon | Capayable Gespreid betalen | Pay Fixed Price (phone) |
+SOFORT | PostePay | Gezondheidsbon | in3 keer betalen, 0% rente | Pay Fixed Price (phone) |
 Maestro | Dankort | Fashion Giftcard | Klarna | Instore Payments (POS) |
 Bank Transfer | Cartasi | GivaCard | SprayPay | Przelewy24 | 
-| Tikkie | | YourGift | Creditclick | | 
-| | | Paysafecard |
+| Tikkie | | YourGift | Creditclick | Apple Pay | 
+| Multibanco | | Paysafecard | | Payconiq
+
+
 ### Quickstart
+
 ##### Installing
+
 Download the latest .tgz release and upload into *Configuration* > *Plugin Manager* > *Installed* > *Upload plugin*
+
 ##### Setup
+
 1. Log into the Shopware admin
 2. Go to *Configuration* > *Plugin Manager* > *Installed*
 3. Scroll down or search for PAY.
